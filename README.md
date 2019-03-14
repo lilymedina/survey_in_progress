@@ -1,7 +1,7 @@
 # survey_in_progress
 Get a friendly and quick overview of your survey instrument while work is in progress
 
-**_01_survey_script.Rmd_** This file reads _questions.xlsx_ and produces _01_survey_script.html_. This is the file you need to compile when you to have a look of the survey instrument
+**_01_survey_script.Rmd_** This file reads _questions.xlsx_ and produces _01_survey_script.html_. This is the file you need to compile whenever you  want to have a look of the survey instrument
 
 **_01_survey_script.html_** The questionnaire. 
 
