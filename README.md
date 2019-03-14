@@ -7,7 +7,7 @@ Get a friendly and quick overview of your survey instrument while work is in pro
 
 **_01_survey_script.md_** Have a quick look of the survey instrument
 
-**_02_survey_script.Rmd_** A helper file for compiling the html output. It's overwritten every time _01_survey_script.Rmd_ is knitted.
+**_02_survey_script.Rmd_** A helper file to compile the html output. It's overwritten every time _01_survey_script.Rmd_ is knitted.
 
 **_questions.xlsx_**  A spreadsheet with questions for the survey instrument. This is the only file that needs editing. More on that below.
 
